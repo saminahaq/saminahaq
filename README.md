@@ -7,7 +7,7 @@
   
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/saminafintech/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/de6fc260d1b508b886eb59b723ae9970d45a5f11/images/linkedin.svg"> LinkedIn</a></code>
+    <a href="https://www.linkedin.com/in/saminatechnopreneur/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/de6fc260d1b508b886eb59b723ae9970d45a5f11/images/linkedin.svg"> LinkedIn</a></code>
 
 </h5>
 <br>
