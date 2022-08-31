@@ -22,7 +22,7 @@
   <br>
   💬 Ask me anything you'd like <a href="https://github.com/samimahaq/samimahaq/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: snaseemu@student.ubc.ca">saminanaseem2019@gmail.com</a>
+  📫 How to reach me: <a href="mailto: snaseemu@student.ubc.ca">Drop Message Here ...</a>
 </p>
 
 
